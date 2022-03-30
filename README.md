@@ -1,2 +1,2 @@
-# Farel
+# farel-
 My first project
