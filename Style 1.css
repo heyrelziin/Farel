@@ -1,0 +1,64 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #c8b0ff;
+  }
+  
+  #Projects {
+    background-color: #c8b0ff;
+  }
+  
+  section {
+    padding-top: 5rem;
+  }
+
+
+
+  .sosial-icon{
+    margin: 10px 390px;
+    display: flex;
+  }
+
+  .sosial-icon a{
+    width:40px;
+    height:40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8153f0;
+    border-radius:50%;
+  }
+
+  .sosial-icon a:hover {
+  background-color: #6726ff;
+  box-shadow:2px 2px 10px rgba(0,0,0,0.2);
+  transition:all ease 0.6 s;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    justify-content: space-evenly;
+  }
+  
+  li {
+    list-style: none;
+  }
+
+
+
+  .bd-navbar {
+    background-color: #8153f0;
+  }
+  
+  .btn-bd-primary{
+    background-color: #6726ff;
+  }
+
+  .btn-bd-primary:hover {
+    background-color: #8153f0;
+    transition: 0.5s;
+    box-shadow:2px 2px 10px rgba(0,0,0,0.2);
+  }
+  .alert-primary {
+    background-color: #c8b0ff;
+  }
